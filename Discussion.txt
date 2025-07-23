@@ -1,0 +1,55 @@
+AI vs ML vs DL
+
+Artificial Intelligence (AI):
+The broadest field. It refers to machines mimicking human intelligence (reasoning, problem-solving, learning, etc.).
+
+Machine Learning (ML):
+A subset of AI that enables systems to learn from data and improve automatically without being explicitly programmed.
+
+Deep Learning (DL):
+A subset of ML that uses neural networks with many layers (deep neural networks) to model complex patterns in large datasets (e.g., image, audio, language).
+
+Types of Machine Learning
+
+Supervised Learning
+
+Learns from labeled data (input + correct output).
+
+Goal: Predict output for new inputs.
+
+Unsupervised Learning
+
+Learns from unlabeled data.
+
+Goal: Discover hidden patterns or structures.
+
+Semi-Supervised Learning
+
+Combines a small amount of labeled data with a large amount of unlabeled data.
+
+Reinforcement Learning
+
+Learns by interacting with an environment, receiving rewards or penalties based on actions.
+
+Supervised Learning
+Definition: Trains on labeled data.
+
+Goal: Predict or classify.
+
+Types:
+
+Classification (e.g., spam detection, disease diagnosis)
+
+Regression (e.g., predicting house prices, temperature)
+
+Unsupervised Learning
+Definition: Learns from unlabeled data.
+
+Goal: Find patterns, groupings, or structure.
+
+Types:
+
+Clustering (e.g., customer segmentation — K-Means, Hierarchical Clustering)
+
+Dimensionality Reduction (e.g., PCA, t-SNE)
+
